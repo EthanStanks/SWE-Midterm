@@ -90,8 +90,8 @@ int main()
 		}
 		if (questionNum == 1 && answ == 4) std::cout << "Correct!" << std::endl;
 		else if (questionNum == 2 && answ == 3) std::cout << "Correct!" << std::endl;
-		else if (questionNum == 3 && answ == 4) std::cout << "Correct!" << std::endl;
-		else if (questionNum == 4 && answ == 2) std::cout << "Correct!" << std::endl;
+		else if (questionNum == 3 && answ == 1) std::cout << "Correct!" << std::endl;
+		else if (questionNum == 4 && answ == 4) std::cout << "Correct!" << std::endl;
 		else if (questionNum == 5 && answ == 2) std::cout << "Correct!" << std::endl;
 		else std::cout << "Incorrect..." << std::endl;
 
